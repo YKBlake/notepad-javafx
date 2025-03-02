@@ -34,7 +34,7 @@ Running the Application
 
 Clone this repository:
 
-git clone https://github.com/yourusername/javafx-notepad.git
+git clone https://github.com/YKBlake/notepad-javafx.git
 cd javafx-notepad
 
 Compile and run the application:
