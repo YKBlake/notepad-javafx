@@ -1,0 +1,16 @@
+Label{
+	-fx-text-fill: white;
+}
+
+AnchorPane,Button{
+	-fx-background-color: #7D7D7D;
+	-fx-text-fill: white;
+}
+
+Line{
+	-fx-stroke: #7D7D7D;
+}
+
+FlowPane,#mainAnchorPane{
+	-fx-background-color: #2C2C2C;
+}

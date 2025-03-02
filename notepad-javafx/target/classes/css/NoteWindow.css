@@ -1,0 +1,26 @@
+AnchorPane{
+	-fx-background-color: #2C2C2C;
+}
+
+Button{
+	-fx-background-color: #7D7D7D;
+	-fx-text-fill: white;
+}
+
+Line{
+	-fx-stroke: #7D7D7D;
+}
+
+TextField{
+	-fx-control-inner-background: #2C2C2C;
+	-fx-text-fill: white;
+	-fx-focus-color: #2C2C2C;
+	-fx-text-box-border: #2C2C2C;
+}
+
+TextArea{
+	-fx-control-inner-background: #2C2C2C;
+	-fx-text-fill: white;
+	-fx-focus-color: #2C2C2C;
+	-fx-text-box-border: #2C2C2C;
+}
